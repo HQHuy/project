@@ -1,0 +1,783 @@
+.desktop-2, .desktop-2 * {
+    box-sizing: border-box;
+    }
+.desktop-2 {
+   background: #ffffff;
+   width: 1440px;
+    height: 1024px;
+   
+           position: relative;
+   
+       overflow: hidden;
+   }
+
+.rectangle-1 {
+   background: #565abb;
+   border-radius: 20.78px;
+   width: 465px;
+    height: 856px;
+   
+           position: absolute;
+    left: 894px;
+   top: 82px;
+   
+       }
+
+.name-on-card {
+   color: #fefcfc;
+   text-align: left;
+   font: 500 14.54px 'Poppins-Medium', sans-serif;
+   
+           position: absolute;
+    left: 917px;
+   top: 350px;
+   
+       width: 165px;
+    height: 29px;
+   }
+
+.card-type {
+   color: #fefcfc;
+   text-align: left;
+   font: 500 16.62px 'Nunito-Medium', sans-serif;
+   
+           position: absolute;
+    left: 917px;
+   top: 194px;
+   
+       width: 113px;
+    height: 29px;
+   }
+
+.card-details {
+   color: #fefcfc;
+   text-align: left;
+   font: 600 22.85px 'Poppins-SemiBold', sans-serif;
+   
+           position: absolute;
+    left: 917px;
+   top: 118px;
+   
+       width: 180px;
+    height: 43px;
+   }
+
+.rectangle-7 {
+   background: #6268c6;
+   border-radius: 6.23px;
+   width: 419px;
+    height: 53px;
+   
+           position: absolute;
+    left: 917px;
+   top: 385px;
+   
+       box-shadow:  0px 1.04px 4.16px 0px rgba(0, 0, 0, 0.25);
+   }
+
+.name {
+   color: #c4c4c4;
+   text-align: left;
+   font: 500 12.47px 'Poppins-Medium', sans-serif;
+   
+           position: absolute;
+    left: 939px;
+   top: 400px;
+   
+       width: 61px;
+    height: 24px;
+   }
+
+.expiration-date {
+   color: #fefcfc;
+   text-align: left;
+   font: 500 14.54px 'Poppins-Medium', sans-serif;
+   
+           position: absolute;
+    left: 917px;
+   top: 560px;
+   
+       width: 165px;
+    height: 29px;
+   }
+
+.rectangle-14 {
+   background: #6268c6;
+   border-radius: 6.23px;
+   width: 205px;
+    height: 53px;
+   
+           position: absolute;
+    left: 917px;
+   top: 594px;
+   
+       box-shadow:  0px 1.04px 4.16px 0px rgba(0, 0, 0, 0.25);
+   }
+
+.mm-yy {
+   color: #c4c4c4;
+   text-align: left;
+   font: 500 12.47px 'Poppins-Medium', sans-serif;
+   
+           position: absolute;
+    left: 939px;
+   top: 608px;
+   
+       width: 82px;
+    height: 25px;
+   }
+
+.cvv {
+   color: #fefcfc;
+   text-align: left;
+   font: 500 14.54px 'Poppins-Medium', sans-serif;
+   
+           position: absolute;
+    left: 1131px;
+   top: 560px;
+   
+       width: 166px;
+    height: 29px;
+   }
+
+.rectangle-15 {
+   background: #6268c6;
+   border-radius: 6.23px;
+   width: 205px;
+    height: 53px;
+   
+           position: absolute;
+    left: 1131px;
+   top: 594px;
+   
+       box-shadow:  0px 1.04px 4.16px 0px rgba(0, 0, 0, 0.25);
+   }
+
+._123 {
+   color: #c4c4c4;
+   text-align: left;
+   font: 500 12.47px 'Poppins-Medium', sans-serif;
+   
+           position: absolute;
+    left: 1153px;
+   top: 608px;
+   
+       width: 83px;
+    height: 25px;
+   }
+
+.card-number {
+   color: #fefcfc;
+   text-align: left;
+   font: 500 14.54px 'Poppins-Medium', sans-serif;
+   
+           position: absolute;
+    left: 917px;
+   top: 457px;
+   
+       width: 165px;
+    height: 28px;
+   }
+
+.subtotal {
+   color: #fefcfc;
+   text-align: left;
+   font: 500 14.54px 'Poppins-Medium', sans-serif;
+   
+           position: absolute;
+    left: 917px;
+   top: 696px;
+   
+       width: 165px;
+    height: 28px;
+   }
+
+._1-668 {
+   color: #fefcfc;
+   text-align: right;
+   font: 500 14.54px 'Poppins-Medium', sans-serif;
+   
+           position: absolute;
+    left: 1171px;
+   top: 696px;
+   
+       width: 165px;
+    height: 28px;
+   }
+
+._4 {
+   color: #fefcfc;
+   text-align: right;
+   font: 500 14.54px 'Poppins-Medium', sans-serif;
+   
+           position: absolute;
+    left: 1171px;
+   top: 732px;
+   
+       width: 165px;
+    height: 28px;
+   }
+
+._1-672 {
+   color: #fefcfc;
+   text-align: right;
+   font: 500 14.54px 'Poppins-Medium', sans-serif;
+   
+           position: absolute;
+    left: 1171px;
+   top: 768px;
+   
+       width: 165px;
+    height: 28px;
+   }
+
+.shipping {
+   color: #fefcfc;
+   text-align: left;
+   font: 500 14.54px 'Poppins-Medium', sans-serif;
+   
+           position: absolute;
+    left: 917px;
+   top: 732px;
+   
+       width: 165px;
+    height: 28px;
+   }
+
+.total-tax-incl {
+   color: #fefcfc;
+   text-align: left;
+   font: 500 14.54px 'Poppins-Medium', sans-serif;
+   
+           position: absolute;
+    left: 917px;
+   top: 768px;
+   
+       width: 165px;
+    height: 28px;
+   }
+
+.rectangle-13 {
+   background: #6268c6;
+   border-radius: 6.23px;
+   width: 419px;
+    height: 53px;
+   
+           position: absolute;
+    left: 917px;
+   top: 489px;
+   
+       box-shadow:  0px 1.04px 4.16px 0px rgba(0, 0, 0, 0.25);
+   }
+
+.rectangle-16 {
+   background: #ffffff;
+   border-radius: 15.58px;
+   width: 728px;
+    height: 133px;
+   
+           position: absolute;
+    left: 100px;
+   top: 279px;
+   
+       box-shadow:  0px 1.04px 4.16px 0px rgba(0, 0, 0, 0.25);
+   }
+
+._1 {
+   color: #393939;
+   text-align: left;
+   font: 600 22.85px/100% 'Raleway-SemiBold', sans-serif;
+   
+           position: absolute;
+    left: 555px;
+   top: 332px;
+   
+       width: 15px;
+    height: 26px;
+   }
+
+._1111-2222-3333-4444 {
+   color: #c4c4c4;
+   text-align: left;
+   font: 500 12.47px 'Poppins-Medium', sans-serif;
+   
+           position: absolute;
+    left: 939px;
+   top: 503px;
+   
+       width: 206px;
+    height: 25px;
+   }
+
+.rectangle-2 {
+   background: #4de1c1;
+   border-radius: 12.47px;
+   width: 419px;
+    height: 80px;
+   
+           position: absolute;
+    left: 917px;
+   top: 830px;
+   
+       }
+
+.rectangle-9 {
+   background: linear-gradient(to left, rgba(217, 217, 217, 0.20), rgba(217, 217, 217, 0.20));
+   border-radius: 5.19px;
+   width: 90px;
+    height: 74px;
+   
+           position: absolute;
+    left: 917px;
+   top: 241px;
+   
+       }
+
+.rectangle-10 {
+   background: linear-gradient(to left, rgba(217, 217, 217, 0.20), rgba(217, 217, 217, 0.20));
+   border-radius: 5.19px;
+   width: 90px;
+    height: 74px;
+   
+           position: absolute;
+    left: 1027px;
+   top: 241px;
+   
+       }
+
+.rectangle-11 {
+   background: linear-gradient(to left, rgba(217, 217, 217, 0.20), rgba(217, 217, 217, 0.20));
+   border-radius: 5.19px;
+   width: 90px;
+    height: 74px;
+   
+           position: absolute;
+    left: 1136px;
+   top: 241px;
+   
+       }
+
+.rectangle-12 {
+   background: rgba(217, 217, 217, 0.20);
+   border-radius: 5.19px;
+   width: 90px;
+    height: 74px;
+   
+           position: absolute;
+    left: 1246px;
+   top: 241px;
+   
+       }
+
+.see-all {
+   color: #fefcfc;
+   text-align: center;
+   font: 700 14.54px 'OpenSans-Bold', sans-serif;
+   
+           position: absolute;
+    left: 1258px;
+   top: 264px;
+   
+       width: 67px;
+    height: 26px;
+   }
+
+.line-1 {
+   
+   border-style: solid;
+    
+   border-color: #5f65c3;
+   
+   border-width: 1.04px 0 0 0;
+   
+   width: 419px;
+    height: 0px;
+   
+           position: absolute;
+    left: 917px;
+   top: 677px;
+   
+       
+       transform-origin: 0 0;
+   
+       transform: rotate(0deg) scale(1, 1);
+   
+   }
+
+._1-6722 {
+   color: #fefcfc;
+   text-align: left;
+   font: 500 16.62px 'Poppins-Medium', sans-serif;
+   
+           position: absolute;
+    left: 946px;
+   top: 854px;
+   
+       width: 165px;
+    height: 32px;
+   }
+
+.checkout {
+   color: #fefcfc;
+   text-align: left;
+   font: 500 16.62px 'Poppins-Medium', sans-serif;
+   
+           position: absolute;
+    left: 1181px;
+   top: 854px;
+   
+       width: 101px;
+    height: 32px;
+   }
+
+.right {
+   width: 30px;
+    height: 33px;
+   
+           position: absolute;
+    left: 1282px;
+   top: 853px;
+   
+       }
+
+.shopping-continue {
+   color: #1e1e1e;
+   text-align: left;
+   font: 600 18.7px 'Poppins-SemiBold', sans-serif;
+   
+           position: absolute;
+    left: 118px;
+   top: 83px;
+   
+       width: 228px;
+    height: 36px;
+   }
+
+.shopping-cart {
+   color: #1e1e1e;
+   text-align: left;
+   font: 500 18.7px 'Poppins-Medium', sans-serif;
+   
+           position: absolute;
+    left: 100px;
+   top: 182px;
+   
+       width: 228px;
+    height: 35px;
+   }
+
+.italy-pizza {
+   color: #1e1e1e;
+   text-align: left;
+   font: 500 18.7px 'Poppins-Medium', sans-serif;
+   
+           position: absolute;
+    left: 229px;
+   top: 312px;
+   
+       width: 228px;
+    height: 36px;
+   }
+
+.you-have-3-item-in-your-cart {
+   color: #1e1e1e;
+   text-align: left;
+   font: 500 14.54px 'Nunito-Medium', sans-serif;
+   
+           position: absolute;
+    left: 100px;
+   top: 215px;
+   
+       width: 258px;
+    height: 25px;
+   }
+
+.extra-cheese-and-toping {
+   color: #1e1e1e;
+   text-align: left;
+   font: 500 14.54px 'Nunito-Medium', sans-serif;
+   
+           position: absolute;
+    left: 229px;
+   top: 352px;
+   
+       width: 197px;
+    height: 25px;
+   }
+
+.arrow {
+   width: 40px;
+    height: 36px;
+   
+           position: absolute;
+    left: 118px;
+   top: 82px;
+   
+       
+       transform-origin: 0 0;
+   
+       transform: rotate(90deg) scale(1, 1);
+   
+   }
+
+.line-2 {
+   
+   border-style: solid;
+    
+   border-color: #d0cfcf;
+   
+   border-width: 1.56px 0 0 0;
+   
+   width: 728px;
+    height: 0px;
+   
+           position: absolute;
+    left: 100px;
+   top: 150px;
+   
+       
+       transform-origin: 0 0;
+   
+       transform: rotate(0deg) scale(1, 1);
+   
+   }
+
+.rectangle-19 {
+   background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+   border-radius: 8.31px;
+   width: 96px;
+    height: 109px;
+   
+           position: absolute;
+    left: 112px;
+   top: 291px;
+   
+       }
+
+.group-4 {
+   height: auto;
+   
+           position: absolute;
+    left: 576.85px;
+   top: 331.85px;
+   
+       overflow: visible;
+   }
+
+._681 {
+   color: #393939;
+   text-align: right;
+   font: 500 14.54px 'Poppins-Medium', sans-serif;
+   
+           position: absolute;
+    left: 654px;
+   top: 331px;
+   
+       width: 71px;
+    height: 28px;
+   }
+
+.trash-can {
+   width: 30px;
+    height: 33px;
+   
+           position: absolute;
+    left: 771px;
+   top: 328px;
+   
+       }
+
+.rectangle-20 {
+   background: #ffffff;
+   border-radius: 15.58px;
+   width: 728px;
+    height: 132px;
+   
+           position: absolute;
+    left: 100px;
+   top: 444px;
+   
+       box-shadow:  0px 1.04px 4.16px 0px rgba(0, 0, 0, 0.25);
+   }
+
+._12 {
+   color: #393939;
+   text-align: left;
+   font: 600 22.85px/100% 'Raleway-SemiBold', sans-serif;
+   
+           position: absolute;
+    left: 555px;
+   top: 497px;
+   
+       width: 15px;
+    height: 26px;
+   }
+
+.combo-plate {
+   color: #1e1e1e;
+   text-align: left;
+   font: 500 18.7px 'Poppins-Medium', sans-serif;
+   
+           position: absolute;
+    left: 229px;
+   top: 477px;
+   
+       width: 228px;
+    height: 36px;
+   }
+
+.extra-cheese-and-toping2 {
+   color: #1e1e1e;
+   text-align: left;
+   font: 500 14.54px 'Nunito-Medium', sans-serif;
+   
+           position: absolute;
+    left: 229px;
+   top: 517px;
+   
+       width: 197px;
+    height: 25px;
+   }
+
+.rectangle-21 {
+   background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+   border-radius: 8.31px;
+   width: 96px;
+    height: 110px;
+   
+           position: absolute;
+    left: 112px;
+   top: 455px;
+   
+       }
+
+.group-5 {
+   height: auto;
+   
+           position: absolute;
+    left: 576.85px;
+   top: 496.68px;
+   
+       overflow: visible;
+   }
+
+._6812 {
+   color: #393939;
+   text-align: right;
+   font: 500 14.54px 'Poppins-Medium', sans-serif;
+   
+           position: absolute;
+    left: 654px;
+   top: 495px;
+   
+       width: 71px;
+    height: 28px;
+   }
+
+.trash-can2 {
+   width: 30px;
+    height: 33px;
+   
+           position: absolute;
+    left: 771px;
+   top: 493px;
+   
+       }
+
+.rectangle-22 {
+   background: #ffffff;
+   border-radius: 15.58px;
+   width: 728px;
+    height: 133px;
+   
+           position: absolute;
+    left: 100px;
+   top: 608px;
+   
+       box-shadow:  0px 1.04px 4.16px 0px rgba(0, 0, 0, 0.25);
+   }
+
+._13 {
+   color: #393939;
+   text-align: left;
+   font: 600 22.85px/100% 'Raleway-SemiBold', sans-serif;
+   
+           position: absolute;
+    left: 555px;
+   top: 662px;
+   
+       width: 15px;
+    height: 26px;
+   }
+
+.spanish-rice {
+   color: #1e1e1e;
+   text-align: left;
+   font: 500 18.7px 'Poppins-Medium', sans-serif;
+   
+           position: absolute;
+    left: 229px;
+   top: 642px;
+   
+       width: 228px;
+    height: 35px;
+   }
+
+.extra-garllic {
+   color: #1e1e1e;
+   text-align: left;
+   font: 500 14.54px 'Nunito-Medium', sans-serif;
+   
+           position: absolute;
+    left: 229px;
+   top: 681px;
+   
+       width: 197px;
+    height: 26px;
+   }
+
+.rectangle-23 {
+   background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+   border-radius: 8.31px;
+   width: 96px;
+    height: 110px;
+   
+           position: absolute;
+    left: 112px;
+   top: 620px;
+   
+       }
+
+.group-6 {
+   height: auto;
+   
+           position: absolute;
+    left: 576.85px;
+   top: 661.51px;
+   
+       overflow: visible;
+   }
+
+._6813 {
+   color: #393939;
+   text-align: right;
+   font: 500 14.54px 'Poppins-Medium', sans-serif;
+   
+           position: absolute;
+    left: 654px;
+   top: 660px;
+   
+       width: 71px;
+    height: 28px;
+   }
+
+.trash-can3 {
+   width: 30px;
+    height: 33px;
+   
+           position: absolute;
+    left: 771px;
+   top: 658px;
+   
+       }
+
