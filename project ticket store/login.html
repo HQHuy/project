@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,13 +18,12 @@
         }
 
         .container {
-                background-color: rgba(142, 142, 142, 0.8);
-                border-radius: 16px;
+                background-color: rgba(132, 132, 132, 0.8);
+                border-radius: 8px;
                 box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
                 overflow: hidden;
-                width: 500px;
+                width: 400px;
         }
-
         form {
             padding: 20px;
             box-sizing: border-box;
@@ -34,14 +34,14 @@
             padding: 10px;
             margin: 8px 0;
             box-sizing: border-box;
-            border: 1px solid #6e6e6e;
+            border: 1px solid #ccc;
             border-radius: 4px;
         }
 
         button {
             background-color: #000000;
-            color: rgb(160, 160, 160);
-            padding: 15px 20px;
+            color: white;
+            padding: 10px 15px;
             border: none;
             border-radius: 4px;
             cursor: pointer;
@@ -71,21 +71,22 @@
         <input type="text" placeholder="Username" name="username" required>
         <input type="password" placeholder="Password" name="password" required>
         <button type="submit">Login</button>
-        <div class="switch">
-            <p>Don't have an account? <a href="#" onclick="toggleForm()">Register</a></p>
-        </div>
     </form>
+    <div class="switch">
+        <p>Don't have an account? <a href="#" onclick="toggleForm()">Register</a></p>
+    </div>
+</div>
 
-    <form style="display: none;" id="registerForm">
+<div class="container" style="display: none;" id="registerForm">
+    <form id="registerForm">
         <h2>Register</h2>
         <input type="text" placeholder="Username" name="newUsername" required>
         <input type="password" placeholder="Password" name="newPassword" required>
-        <input type="rewrite password" placeholder="Rewrite password" name="rewrite password" required>
         <button type="submit">Register</button>
-        <div class="switch">
-            <p>Already have an account? <a href="#" onclick="toggleForm()">Login</a></p>
-        </div>
     </form>
+    <div class="switch">
+        <p>Already have an account? <a href="#" onclick="toggleForm()">Login</a></p>
+    </div>
 </div>
 
 <script>

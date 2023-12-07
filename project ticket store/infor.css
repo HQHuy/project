@@ -1,0 +1,357 @@
+.mac-book-air-1,
+.mac-book-air-1 * {
+  box-sizing: border-box;
+}
+.mac-book-air-1 {
+  background: #ffffff;
+  width: 500px;
+  height: 832px;
+  position: fixed;
+  overflow: hidden;
+}
+.rectangle-106 {
+  background: #d9d9d9;
+  width: 574px;
+  height: 128.7px;
+  position: fixed;
+  left: 706px;
+  top: 191px;
+}
+.stage {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 37.39426040649414px;
+  font-weight: 400;
+  position: fixed;
+  left: 941.27px;
+  top: 232.76px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-107 {
+  background: #d9d9d9;
+  width: 225.3px;
+  height: 44.25px;
+  position: fixed;
+  left: 880.19px;
+  top: 319.7px;
+}
+.rectangle-108 {
+  background: #d9d9d9;
+  width: 225.3px;
+  height: 44.25px;
+  position: fixed;
+  left: 880.19px;
+  top: 319.7px;
+}
+.rectangle-109 {
+  width: 90.37px;
+  height: 234.65px;
+  position: fixed;
+  left: 950px;
+  top: 363.95px;
+  overflow: visible;
+}
+.rectangle-64 {
+  width: 54.22px;
+  height: 119.66px;
+  position: fixed;
+  left: 880.19px;
+  top: 384.83px;
+  overflow: visible;
+}
+.vip {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 21.813318252563477px;
+  font-weight: 400;
+  position: fixed;
+  left: 893.75px;
+  top: 474.33px;
+  width: 59.52px;
+  transform-origin: 0 0;
+  transform: rotate(-90.15deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-75 {
+  width: 54.22px;
+  height: 119.66px;
+  position: fixed;
+  left: 1051.27px;
+  top: 521.94px;
+  overflow: visible;
+}
+.rectangle-76 {
+  width: 54.22px;
+  height: 119.66px;
+  position: fixed;
+  left: 1052.21px;
+  top: 384.83px;
+  overflow: visible;
+}
+.rectangle-74 {
+  width: 54.22px;
+  height: 119.66px;
+  position: fixed;
+  left: 879.88px;
+  top: 521.94px;
+  overflow: visible;
+}
+.rectangle-110 {
+  width: 102.83px;
+  height: 50.17px;
+  position: fixed;
+  left: 1007.02px;
+  top: 659.05px;
+  overflow: visible;
+}
+.rectangle-73 {
+  width: 102.83px;
+  height: 50.17px;
+  position: fixed;
+  left: 879.88px;
+  top: 659.05px;
+  overflow: visible;
+}
+.vip2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 26.487600326538086px;
+  font-weight: 400;
+  position: fixed;
+  left: 1037.87px;
+  top: 668.09px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-71 {
+  background: #d9d9d9;
+  width: 160.17px;
+  height: 340.6px;
+  position: fixed;
+  left: 706px;
+  top: 368.62px;
+}
+.station {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 26.487600326538086px;
+  font-weight: 400;
+  position: fixed;
+  left: 731.86px;
+  top: 502.93px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  
+}
+.rectangle-72 {
+  width: 160.17px;
+  height: 345.27px;
+  position: fixed;
+  left: 1119.83px;
+  top: 363.95px;
+  overflow: visible;
+}
+.rectangle-77 {
+  background: #d9d9d9;
+  width: 574px;
+  height: 105.33px;
+  position: fixed;
+  left: 706px;
+  top: 726.67px;
+}
+.vip3 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 21.813318252563477px;
+  font-weight: 400;
+  position: fixed;
+  left: 893.75px;
+  top: 610.51px;
+  width: 59.52px;
+  transform-origin: 0 0;
+  transform: rotate(-90.15deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.vip4 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 21.813318252563477px;
+  font-weight: 400;
+  position: fixed;
+  left: 1092.48px;
+  top: 414.77px;
+  width: 59.52px;
+  transform-origin: 0 0;
+  transform: rotate(90.069deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.vip5 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 21.813318252563477px;
+  font-weight: 400;
+  position: fixed;
+  left: 1092.48px;
+  top: 551.89px;
+  width: 59.52px;
+  transform-origin: 0 0;
+  transform: rotate(90.069deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.station2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 26.487600326538086px;
+  font-weight: 400;
+  position: fixed;
+  left: 1155.67px;
+  top: 504.49px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.station3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 26.487600326538086px;
+  font-weight: 400;
+  position: fixed;
+  left: 948.44px;
+  top: 763.13px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ellipse-1 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 90.37px;
+  height: 78.53px;
+  position: fixed;
+  left: 950px;
+  top: 563.07px;
+}
+.stage2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 37.39426040649414px;
+  font-weight: 400;
+  position: fixed;
+  left: 1022.6px;
+  top: 456.81px;
+  transform-origin: 0 0;
+  transform: rotate(89.812deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.vip6 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 26.487600326538086px;
+  font-weight: 400;
+  position: fixed;
+  left: 910.73px;
+  top: 668.09px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container{
+    height: 50px;
+    width: auto;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin-left: 10;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 100 ;
+    height: 100vh;
+    
+}
+
+.left-panel {
+    flex: 1;
+    padding: 20px;
+    text-align: left;
+}
+
+.left-panel img {
+    max-width: 100%;
+    height: auto;
+}
+
+.center-panel {
+    flex: 1;
+    text-align: center;
+}
+
+.customer-info {
+    margin-bottom: 20px;
+}
+
+.ticket-price {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ff0000; /* Màu đỏ hoặc màu bạn muốn */
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+.price-table {
+    flex: 1;
+    background-color: rgba#9f9f9f; /* Màu nền bảng giá */
+    padding: 320 px;
+    height: relative;
+    margin-left: 100px;
+    z-index: 1;
+}
+
+.ticket-prices {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.ticket-prices th,
+.ticket-prices td {
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+    text-align: left;
+}
